@@ -1,52 +1,52 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Insect toxicology
+    institution: Institute of Plant Protection, Chinese Academy of Agricultural Sciences
+    year: 2023
+  - course: Masters of Agriculture in agricultural entomology and pest control 
+    institution: Henan agricultural University
+    year: 2020
+  - course: BA in Pharmaceutical Engineering
+    institution: Henan agricultural University
+    year: 2017
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular Biology
+- Bioinformatics
+- Swim
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Institute of Plant Protection, Chinese Academy of Agricultural Sciences
+  url: http://www.ippcaas.cn/index.htm
+role: Ph.D. in Insect toxicology
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+# - display:
+#     header: true
+#   icon: twitter
+#   icon_pack: fab
+#   label: Follow me on Twitter
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- icon: comments
+  icon_pack: fas
+  link: https://app.yinxiang.com/fx/18a66d4f-b0f1-4ad5-ad52-fac303ba58f0
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 superuser: true
-title: Jenny Sloane
+title: Jinrong Tang
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Ph.D. student studying Insect toxicology at CAAS. I received my BA in pharmaceutical engineering from Henan University and my master of Agriculture in agricultural entomology and pest control from Henan University. 
+剩下的以后再完善吧
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+简历也是以后再好好做一个。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
