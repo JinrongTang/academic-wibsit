@@ -33,7 +33,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://www.ippcaas.cn/index.htm
 - icon: comments
   icon_pack: fas
   link: https://app.yinxiang.com/fx/18a66d4f-b0f1-4ad5-ad52-fac303ba58f0
