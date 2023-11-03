@@ -4,14 +4,14 @@ education:
   courses:
   - course: PhD in Insect toxicology
     institution: Institute of Plant Protection, Chinese Academy of Agricultural Sciences
-    year: 2023
-  - course: Masters of Agriculture in agricultural entomology and pest control 
-    institution: Henan agricultural University
+    year: 2024
+  - course: Master of Agriculture in agricultural entomology and pest control 
+    institution: College of Plant Protection Henan agricultural University
     year: 2020
-  - course: BA in Pharmaceutical Engineering
-    institution: Henan agricultural University
+  - course: BA of Engineering in Pharmaceutical Engineering
+    institution: College of Plant Protection Henan agricultural University
     year: 2017
-email: ""
+email: "tangjinronga@163.com"
 highlight_name: false
 interests:
 - Molecular Biology
@@ -44,9 +44,6 @@ superuser: true
 title: Jinrong Tang
 ---
 
-I’m a Ph.D. student studying Insect toxicology at CAAS. I received my BA in pharmaceutical engineering from Henan University and my master of Agriculture in agricultural entomology and pest control from Henan University. 
-剩下的以后再完善吧
+I’m a PhD student specializing in insect biochemistry and toxicology in Institute of Plant Protection Chinese Academy of Agricultrual Sciences. I received my BA of Engineering in Pharmaceutical Engineering and Master of Agriculture in agricultural entomology and pest control from College of Plant Protection Henan Agriculture University in 2017 and 2020, respectively. I am broadly interested in the area of biochemistry and toxicology, integrated pest management. My current research lies at the pest resistance to Bt, I am working on evaluate resistance risk and molecular mechanism of pests to Bt. In the future, I would like to learn novel technologies and ideas, broaden my horizons step by step, do more in-depth and interesting research, and tell a complete scientific story to contribute to the exploration and explanation of nature, as well as the production and ecological friendly green agriculture.
 
-简历也是以后再好好做一个。
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}academic CV{{< /staticref >}}.
