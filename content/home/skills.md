@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 怎么换icon还不会，下去得琢磨琢磨。
+- description: This homepage was built using R, I can follow the tutorial but can not use it independently yet
   icon: r-project
   icon_pack: fab
   name: R
@@ -28,6 +28,17 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 拍照这个也可以直接用上。
+  icon: ":smile:"
+  icon_pack: emoji
+  name: Emojiness
+
+- description: "test"
+  icon: poo
+  icon_pack: fas
+  name: 123
+
+  
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
