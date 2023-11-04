@@ -44,6 +44,9 @@ social:
 - icon: comments
   icon_pack: fas
   link: https://app.yinxiang.com/fx/18a66d4f-b0f1-4ad5-ad52-fac303ba58f0
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0006-5275-0657
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
