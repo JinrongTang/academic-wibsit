@@ -9,7 +9,7 @@ authors:
 - Yu S
 - Tang J, Zhang C, Soe ET
 - Gemei Liang
-date: "2023-10-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: "10.16688/j.zwbh.2022607"
 featured: false
 image:
@@ -21,7 +21,7 @@ publication: '*Plant Protection, 49*(139-146)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 #slides: example
 summary: Cloning and expression analysis of JNKs gene in cotton bollworm Helicoverpa armigera
 tags:
